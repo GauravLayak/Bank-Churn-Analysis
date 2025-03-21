@@ -1,3 +1,3 @@
 # Bank Churn Analysis
 
-![image alt](https://github.com/GauravLayak/Bank-Churn-Analysis/blob/f622a27d74e77e76eeb9c9fdb213af6ffa925766/Dashboard%20Overview.png)
+![image alt](https://github.com/GauravLayak/Bank-Churn-Analysis/blob/29c35a90779a2abcdba529945333f520bf4083aa/Dashboard%20Overview.png)
